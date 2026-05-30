@@ -1,7 +1,6 @@
-# AI-Infrastructure-Equity-Research
+# Western Digital (WDC) Equity Research Project
+WDC equity research project including DCF valuation, trading comps, stock pitch and investment memo.
 Equity research report on AI infrastructure, covering storage, optical networking and semiconductor test exposure.
-
-Western Digital (WDC) Equity Research Project
 
 This repository presents a complete equity research project on Western Digital Corporation (NASDAQ: WDC).
 The project includes:

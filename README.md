@@ -1,29 +1,22 @@
 # AI-Infrastructure-Equity-Research
 Equity research report on AI infrastructure, covering storage, optical networking and semiconductor test exposure.
-# AI Infrastructure Equity Research Report
 
-This project is an equity research initiation report on the AI infrastructure sector.The report analyzes six listed companies exposed to the AI capex cycle, including storage, optical networking and semiconductor test names.
+Western Digital (WDC) Equity Research Project
 
-## Key elements
+This repository presents a complete equity research project on Western Digital Corporation (NASDAQ: WDC).
+The project includes:
+* Industry analysis
+* Equity research report
+* Discounted Cash Flow valuation (DCF)
+* Trading comparables valuation
+* Investment memo
+* Stock pitch materials
 
-- Industry overview
-- Investment thesis
-- Company analysis
-- Financial analysis
-- Valuation using DCF and trading comparables
-- Portfolio construction
-- Risk analysis
-- Investment recommendation
+Investment Thesis
+Western Digital is a leading beneficiary of the AI infrastructure cycle through its exposure to cloud storage and hyperscaler demand. Following the NAND spin-off, WDC offers a cleaner investment case focused on mass-capacity HDDs, operating leverage and improving free cash flow generation.
 
-## Coverage
-
-- Western Digital
-- Seagate Technology
-- Lumentum Holdings
-- Teradyne
-- SanDisk
-- Ciena
-
-## Disclaimer
+Nell Marzouk
+Master in Management – Corporate Finance & Data Analytics
+Paris, France
 
 This report was prepared for academic and interview-preparation purposes only. It does not constitute investment advice.
